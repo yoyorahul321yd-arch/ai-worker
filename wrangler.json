@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "ai-worker",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "14b568f0-c618-4c35-8e33-6e7dac56481c",
+			"database_name": "ai_db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
